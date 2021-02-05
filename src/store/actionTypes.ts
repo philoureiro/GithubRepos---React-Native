@@ -1,0 +1,4 @@
+export const SET_NAME_USER = 'SET_NAME_USER';
+export const SAVE_DATA_USER = 'SAVE_DATA_USER';
+export const SAVE_DATA_REPOS = 'SAVE_DATA_REPOS';
+export const SET_NAME_USER_SAVE_PAGE = 'SET_NAME_USER_SAVE_PAGE';
